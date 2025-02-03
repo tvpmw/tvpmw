@@ -4,14 +4,10 @@
 
 - 🌱 I’m currently learning **API, React Native, Flutter**
 
-- 👯 I’m looking to collaborate on **HRM, CRM, API**
+- 👯 I’m looking to collaborate on **HRM, CRM, API, ERP**
 
 - 🤝 I’m looking for help with **API From META**
 
 - 💬 Ask me about **PHP, HTML, MySQL, Flutter, CodeIgniter, Bootstrap**
 
 - 📫 How to reach me **thomasvincentpmw@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
