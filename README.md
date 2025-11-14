@@ -2,12 +2,12 @@
 
 - 🔭 I’m currently working on **PT. Sadar Jaya Mandiri**
 
-- 🌱 I’m currently learning **API, React Native, Flutter**
+- 🌱 I’m currently learning **Everything**
 
-- 👯 I’m looking to collaborate on **HRM, CRM, API, ERP**
+- 👯 I’m now work at project **HRM, CRM, ERP, Mobile Apps**
 
-- 🤝 I’m looking for help with **API From META**
+- 🤝 I’m interested to collaborative
 
-- 💬 Ask me about **PHP, HTML, MySQL, Flutter, CodeIgniter, Bootstrap**
+- 💬 Ask me about **Anything i can do 👌**
 
 - 📫 How to reach me **thomasvincentpmw@gmail.com**
