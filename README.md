@@ -1,106 +1,167 @@
-<h1 align="center">Hi 👋, I'm Thomas Vincent</h1>
-<h3 align="center">🚀 Passionate Fullstack & Mobile Developer from Indonesia 🇮🇩</h3>
+# Hi there 👋 I'm Thomas Vincent
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Fullstack+Developer;Mobile+Developer;ERP+System+Engineer;Always+Learning+New+Technologies;Building+Solutions+That+Matter" alt="Typing SVG" />
-</p>
+### 🚀 Fullstack Developer | Mobile Developer | Enterprise Solutions Engineer
+
+Building scalable enterprise applications, mobile solutions, and automation systems that solve real business problems.
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Thomas Vincent**, a passionate **Fullstack Developer** and **Mobile Developer** from Indonesia.
+I'm **Thomas Vincent**, a passionate Fullstack Developer from Indonesia 🇮🇩.
 
-Currently working at **PT. Sadar Jaya Mandiri**, where I develop and maintain enterprise-scale solutions including:
+Currently working at **PT. Sadar Jaya Mandiri**, developing enterprise-grade systems and mobile applications used in daily business operations.
 
-### 🏢 Enterprise Systems
-- ERP System
-  - HRM (Human Resource Management)
-  - CRM (Customer Relationship Management)
-  - POS (Point of Sales)
-  - GL (General Ledger)
+My focus includes:
+
+- ERP Development
+- HRM Systems
+- CRM Solutions
+- POS Systems
+- General Ledger (GL)
+- Mobile Applications
+- SSO & Authentication Systems
+- Business Analytics
+- Automation & Integrations
+
+I believe software should not only work, but also improve business processes and create measurable impact.
+
+---
+
+## 💼 Current Role
+
+🏢 PT. Sadar Jaya Mandiri
+
+Developing:
+
+- Enterprise ERP Ecosystem
+- Human Resource Management System
+- Customer Relationship Management
+- General Ledger System
+- Point of Sales
+- Mobile HR Applications
+- Business Intelligence Dashboard
 - Single Sign-On (SSO)
-- Business Process Automation
-
-### 📱 Mobile Applications
-- Attendance Management (HRM)
-- Business Solution Apps
-  - Stock Monitoring
-  - Sales Order Management
-  - Shipment Tracking
-  - Business Analytics Dashboard
-
-I believe great technology is technology that solves real-world problems. With experience across multiple technology stacks, I continuously learn, build, and collaborate to create impactful solutions.
 
 ---
 
-## 🚀 What I'm Doing
+## 🚀 Featured Projects
 
-- 🔭 Developing Enterprise ERP Ecosystems
-- 📱 Building Cross-Platform Mobile Applications
-- 🌐 Creating Scalable Web Applications
-- 🔐 Implementing Authentication & SSO Solutions
-- 📊 Developing Business Analytics Platforms
-- 🤝 Open for Collaboration
+### 🏢 ERP Enterprise System
 
----
+Complete ERP ecosystem with:
 
-## 💬 Ask Me About
+- SSO Authentication
+- HRM
+- CRM
+- POS
+- General Ledger
+- Asset Management
+- Payroll
+- Business Analytics
 
-```text
-Backend Development
-Frontend Development
-Mobile Development
-ERP Systems
-REST API
-Database Design
-System Architecture
-DevOps
-Cloud Deployment
-```
+**Tech Stack**
+
+`Laravel` `PHP` `PostgreSQL` `JavaScript` `REST API` `JWT` `OAuth2`
 
 ---
 
-## 🛠️ Tech Stack
+### 📱 SJM SIKEP (HRM Mobile App)
+
+Human Resource Mobile Application
+
+Features:
+
+- Attendance
+- Field Visit
+- Payroll
+- Reimbursement
+- Vehicle Request
+- Fuel Request
+- Employee Self-Service
+
+**Tech Stack**
+
+`Java Native` `REST API` `JWT`
+
+---
+
+### 📱 MySJM Mobile
+
+Enterprise Business Solution App
+
+Features:
+
+- Stock Monitoring
+- Sales Analytics
+- Revenue Dashboard
+- Leaderboard
+- Business Tracking
+
+**Tech Stack**
+
+`React Native` `REST API` `JWT`
+
+---
+
+### 🤖 Telegram Business Bot
+
+Automation bot for business operations.
+
+Features:
+
+- Stock Checker
+- Database Backup Monitoring
+- AI Integration
+
+**Tech Stack**
+
+`Python` `Telegram API` `PostgreSQL`
+
+---
+
+### 🖨️ WaPrint
+
+WhatsApp Print Server
+
+Send documents through WhatsApp and print automatically.
+
+**Tech Stack**
+
+`Node.js` `WhatsApp API`
+
+---
+
+## 🛠 Tech Stack
 
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxt,tailwind,bootstrap" />
-</p>
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,tailwind)
 
 ### Backend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,spring,python,django,dotnet" />
-</p>
+![Backend](https://skillicons.dev/icons?i=php,laravel,nodejs,java,python)
 
 ### Mobile
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,androidstudio" />
-</p>
+![Mobile](https://skillicons.dev/icons?i=flutter,react,androidstudio)
 
 ### Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-</p>
+![Database](https://skillicons.dev/icons?i=mysql,postgresql,redis)
 
 ### DevOps & Cloud
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,gitlab,cloudflare" />
-</p>
+![DevOps](https://skillicons.dev/icons?i=git,github,gitlab,nginx,docker,cloudflare)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tvpmw&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tvpmw&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tvpmw&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tvpmw&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -108,33 +169,43 @@ Cloud Deployment
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvpmw&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvpmw&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌎 Connect With Me
+## 🤝 Open To Collaborate
 
-<p align="left">
-<a href="https://www.linkedin.com/in/thomas-vincent-prasetya-mulia-witanto-218227215/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
+Interested in:
 
-<a href="https://github.com/tvpmw" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="30" />
-</a>
-</p>
-
-📫 Email: **thomasvincentpmw@gmail.com**
+- Enterprise Systems
+- ERP Development
+- Mobile Applications
+- Automation Systems
+- Business Intelligence
+- API Integrations
+- Open Source Projects
 
 ---
 
-## ⚡ Fun Fact
+## 📫 Contact Me
 
-> "Code is not just about solving problems. It's about creating opportunities, improving lives, and building the future."
+📧 Email: **thomasvincentpmw@gmail.com**
+
+🐙 GitHub: https://github.com/tvpmw
+
+💼 LinkedIn:
+https://www.linkedin.com/in/thomas-vincent-prasetya-mulia-witanto-218227215/
+
+📸 Instagram:
+https://instagram.com/thoms.vnct
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tvpmw&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+## ⚡ Motto
+
+> "Technology should solve problems, not create complexity."
+
+---
+
+⭐ If you like my projects, don't forget to star the repositories.
