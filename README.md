@@ -159,9 +159,11 @@ Send documents through WhatsApp and print automatically.
 ## 📈 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tvpmw&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tvpmw&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tvpmw&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tvpmw&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -169,7 +171,7 @@ Send documents through WhatsApp and print automatically.
 ## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvpmw&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tvpmw&theme=tokyonight&hide_border=true"/>  
 </p>
 
 ---
